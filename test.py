@@ -4,9 +4,9 @@ import math
 # parameters
 min_speed = 20
 max_speed = 100
-speed = min_speed
 accelerater = 10
 
+speed = min_speed
 speeds = []
 
 # accel
